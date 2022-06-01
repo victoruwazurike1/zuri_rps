@@ -1,3 +1,4 @@
+# We will use random to make the computer pick random choices
 import random
 
 while True:
